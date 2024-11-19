@@ -21,7 +21,7 @@ Challenge-name/
 Here is a list of my completed challenges with links to each solution: 
 | # | Title | Used |
 |---| ----- | -------- |
-|1|[Two Sums](./two-sum/| Python |
+|1|[Two Sums](./two-sum/)| Python |
 
 > **Note**: Each solution contains its own `README.md` file with more details, such as implementation notes, technologies used, and any optimizations made.
 
