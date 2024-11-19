@@ -13,7 +13,7 @@ Each solution is organized into its own directory, named after the specific chal
 ```
 Challenge-name/
 ├── README.md (solution details)
-└── challenge-name.cpp/py
+└── challenge-name.py
 ```
 
 ## Solutions 
@@ -21,7 +21,7 @@ Challenge-name/
 Here is a list of my completed challenges with links to each solution: 
 | # | Title | Used |
 |---| ----- | -------- |
-|1|[Two Sums](./two-sum/| C++ |
+|1|[Two Sums](./two-sum/| Python |
 
 > **Note**: Each solution contains its own `README.md` file with more details, such as implementation notes, technologies used, and any optimizations made.
 
@@ -41,13 +41,7 @@ git clone https://github.com/salihsayal/leetcode-solutions.git
 cd leetcode-solutions/{project}
 ```
 
-3a. If C++: Compile the C++ file and run it.
-
-```bash
-g++ -o run {project}.cpp && ./run
-```
-
-3b. If Python: Run the .py file.
+3. If Python: Run the .py file.
 
 ```
 python3 {project}.py
