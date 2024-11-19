@@ -25,28 +25,6 @@ Here is a list of my completed challenges with links to each solution: 
 
 > **Note**: Each solution contains its own `README.md` file with more details, such as implementation notes, technologies used, and any optimizations made.
 
-## Installation 
-
-If you'd like to run any of my solutions locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/salihsayal/leetcode-solutions.git
-```
-
-2. Navigate to the specific challenge directory:
-
-```bash
-cd leetcode-solutions/{project}
-```
-
-3. If Python: Run the .py file.
-
-```
-python3 {project}.py
-```
-
 ## Contributing
 
 This repository primarily serves as a personal showcase of my programming skills. However, if you have suggestions for improvements or would like to share your own insights, I'm happy to receive your feedback!
